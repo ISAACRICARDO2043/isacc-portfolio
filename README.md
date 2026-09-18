@@ -11,6 +11,7 @@ muestro evidencia (no promesas) y documento cómo se mantiene. Español nativo; 
 | [Tienda Global Chile](proyectos/tienda-global-chile.md) | E-commerce con agentes de venta por WhatsApp (n8n + LLM) y banco de pruebas automatizado | En producción | privado |
 | [repartidor-avisos](proyectos/repartidor-avisos.md) | Agente de WhatsApp que avisa entregas y responde consultas | En producción | privado |
 | [buscador-gigs](proyectos/buscador-gigs.md) | Radar de ofertas en 6 job boards con triage y redacción por `claude -p`, aprobación por Telegram | En producción | [público](https://github.com/ISAACRICARDO2043/buscador-gigs) |
+| [rag-docs](proyectos/rag-docs.md) | RAG en español sobre leyes chilenas con cita de artículo y abstención medida (hit@3 0.93), pgvector + embeddings locales | Terminado | [público](https://github.com/ISAACRICARDO2043/rag-docs) |
 | [seguridad-fabrica](proyectos/seguridad-fabrica.md) | Endurecimiento de PC y servidor Linux: auditd, rkhunter, backups restic verificados, gates semanales | En mantenimiento | privado |
 
 **Contacto:** isaacri2043@gmail.com · GitHub: [ISAACRICARDO2043](https://github.com/ISAACRICARDO2043)
